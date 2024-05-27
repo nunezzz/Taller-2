@@ -1,0 +1,36 @@
+Medicamentos#
+Analgésicos@
+Paracetamol-001-10-50&
+Ibuprofeno-002-15-30&
+Aspirina-003-8-20&
+Antibióticos@
+Amoxicilina-101-20-25&
+Azitromicina-102-25-15&
+Ciprofloxacino-103-18-40&
+Vitaminas#
+Multivitamínicos@
+Centrum-201-30-60&
+Pharmaton-202-35-45&
+Supradyn-203-28-55&
+Vitamina C@
+Redoxon-301-12-70&
+Cebion-302-10-80&
+Vitacimin-303-15-65&
+Cuidado Personal#
+Cuidado Facial@
+Limpiador facial-401-15-40&
+Crema hidratante-402-20-35&
+Protector solar-403-18-50&
+Cuidado Capilar@
+Champú-501-10-55&
+Acondicionador-502-12-45&
+Mascarilla capilar-503-15-30&
+Cuidado Respiratorio#
+Antitusivos@
+Dimermofano-1601-12-80&
+Cloperastina-1602-10-100&
+Codeína-321-10-50&
+Inhaladores@
+Inhalador de salbutamol-1801-25-40&
+Inhalador de corticoides-1802-30-35&
+Inhalador para alergias-1803-28-45&
